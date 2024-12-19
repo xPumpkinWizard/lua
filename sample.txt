@@ -1,0 +1,4 @@
+Hello world, hello Lua! Lua is great for scripting.
+This text is a simple example to demonstrate Lua's capabilities.
+It includes several words, some of which repeat. Repeat, repeat!
+Let's see how well our Lua program can handle this task.
